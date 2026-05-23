@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { buildApiUrl, normalizeResponse } from "../api";
 
 function Teams() {

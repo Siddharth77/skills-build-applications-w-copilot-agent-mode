@@ -1,3 +1,4 @@
+import React from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { BrowserRouter as Router, NavLink, Route, Routes } from "react-router-dom";
 import Activities from "./components/Activities";
