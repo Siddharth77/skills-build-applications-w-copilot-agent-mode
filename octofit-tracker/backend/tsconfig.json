@@ -9,6 +9,7 @@
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "Node",
+    "ignoreDeprecations": "6.0",
     "resolveJsonModule": true
   },
   "include": ["src"]
